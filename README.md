@@ -1,2 +1,3 @@
 # trendspotter
 # trends
+# trends-app
